@@ -6,6 +6,8 @@ github:
   repository_url: https://github.com/XZRC/FrogWare
   website_url: https://github.com/XZRC/FrogWareWebsite
   jar_url: https://github.com/XZRC/FrogWare/releases/download/1.0/Frogware-1.0-Release.jar
+  zip_url: https://github.com/XZRC/FrogWare/releases/download/1.0/Frogware-1.0-Release.jar
+  tar.gz_url: https://github.com/XZRC/FrogWare/releases/download/1.0/Frogware-1.0-Release.jar
 cur_ver: v1.0
 theme: jekyll-theme-cayman
 gems:
