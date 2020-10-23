@@ -8,7 +8,7 @@ description: A Minecraft utility mod for anarchy servers
 
 
 This is an open source project written by XZRC, 9k, es0terik, Reap and jimbo . It has many useful combat and general utilities to assist the player. 
-It's a continuation of Elementars.com by crystalinqq and auto
+It's a continuation of Mercury
 
 ## Images
 
